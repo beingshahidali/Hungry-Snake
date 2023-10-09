@@ -1,4 +1,4 @@
-##Hungry Snake using Java Swing
+Hungry Snake using Java Swing
 
 #Introduction
 
@@ -10,6 +10,12 @@ How to Play
     Avoid colliding with the game borders or the snake's own body.
     When the game ends, press the spacebar to restart.
     
+
+<div align="center">
+  <img alt="Demo" src="./assets/gameon.png" />
+  <img alt="Demo" src="./assets/output.png" />
+    
+</div>
 
 #Game Features
 
