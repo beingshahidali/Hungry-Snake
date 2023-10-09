@@ -1,6 +1,5 @@
-Hungry Snake using Java Swing
-
-#Introduction
+<h1>Hungry Snake using Java Swing</h1>
+<h3>Introduction</h3>
 
 This is a simple Snake game implemented in Java with the help of Swing and AWT libraries. The game allows players to control a snake and collect food items to increase their score. When the snake collides with the game borders or itself, the game ends, and the player can restart it by pressing the spacebar.
 How to Play
@@ -17,7 +16,7 @@ How to Play
     
 </div>
 
-#Game Features
+<h3>Game Features</h3>
 
     Snake grows longer as it collects food.
     Score is displayed on the screen.
@@ -25,7 +24,7 @@ How to Play
     Player can restart the game by pressing the spacebar.
     Enter your name at the end to record your score.
 
-#Code Structure
+<h3>Code Structure </h3>
 
 The game is organized into two main classes:
 
@@ -33,7 +32,7 @@ The game is organized into two main classes:
 
     GamePanel: This class represents the game's panel, where the game logic, graphics, and user interactions are handled. It contains methods for controlling the snake, checking for collisions, and drawing the game components.
 
-#How to Run
+<h3>How to Run</h3>
 
     Make sure you have Java installed on your computer.
     Compile the source files.
@@ -41,15 +40,15 @@ The game is organized into two main classes:
 
 
 
-Additional Customization
+<h3>Additional Customization</h3>
 
 You can customize the game further by adjusting the game's constants, such as screen size, delay, and colors in the GamePanel class. Feel free to modify the code to add more features or improve the gameplay.
 Author
 
-  #Shahid Ali
+  <h1>Shahid Ali</h1>
 
 
-Acknowledgments
+<h4>Acknowledgments</h4>
 
     This game was created using Java and the Swing library.
     Inspiration and ideas were drawn from classic Snake games.
